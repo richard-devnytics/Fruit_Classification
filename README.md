@@ -61,4 +61,11 @@ This app supports **18 unique classes** (6 fruits x 3 ripeness stages):
 ---
 
 ## 📂 Project Structure
+Fruit_Classification_YOLO/
+├── assets/ # YOLOv8 model, nutrition JSON, sample images
+├── app/ # Python and KV source code
+├── buildozer.spec # Android build config
+├── requirements.txt
+└── README.md
+
 
